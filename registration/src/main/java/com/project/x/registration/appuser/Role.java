@@ -1,6 +1,6 @@
 package com.project.x.registration.appuser;
 
-public enum AppUserRole {
+public enum Role {
     USER,
     ADMIN
 }
